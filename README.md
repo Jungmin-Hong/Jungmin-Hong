@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JungMin's Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?color=AFBFF3&type=soft&height=100&section=header&text=Jungmin&#39;s%20Github&fontSize=70)
+### Backend Developer & Security
 
-Backend Developer & Security
 
 About Me
 ---
@@ -40,7 +40,8 @@ Tech Stack
 Dev Tool
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungmin-Hong&show_icons=true&theme=rose_pine)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungmin-Hong&show_icons=true&theme=rose_pine)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungmin-Hong)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungmin-Hong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
