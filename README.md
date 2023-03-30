@@ -9,11 +9,11 @@ About Me
 <div align="center">
 <a href="https://blog.naver.com/ranunculus917">
   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ranunculus917"/>
-</a>&nbsp
+</a>
 <a href="https://www.instagram.com/olllo7_avelso/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://blog.naver.com/ranunculus917](https://www.instagram.com/olllo7_avelso/)"/>
-</a>&nbsp
-<a href="[https://blog.naver.com/ranunculus917](https://www.linkedin.com/in/jung-min-hong-a779b4232/)">
+</a>
+<a href="https://www.linkedin.com/in/jung-min-hong-a779b4232/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=[https://blog.naver.com/ranunculus917](https://www.linkedin.com/in/jung-min-hong-a779b4232/)"/>
 </a>
 </div>
