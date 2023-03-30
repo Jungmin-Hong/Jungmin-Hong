@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=AFBFF3&type=soft&height=100&section=header&text=Jungmin&#39;s%20Github&fontSize=70)
 ### Backend Developer & Security
+Seoul Women's University  
+Major in Information Security
 
 
 About Me
