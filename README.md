@@ -5,7 +5,6 @@ Major in Information Security
 
 
 ### About Me
-
 ---
 <div align="center">
 <a href="https://blog.naver.com/ranunculus917">
@@ -20,7 +19,6 @@ Major in Information Security
 </div>
 
 ### Tech Stack
-
 ---
 <div align="center">
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
@@ -42,7 +40,6 @@ Major in Information Security
 
 
 ### Dev Tool
-
 ---
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungmin-Hong&show_icons=true&theme=rose_pine)-->
