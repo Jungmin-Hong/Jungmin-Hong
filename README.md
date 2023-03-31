@@ -44,7 +44,7 @@ Major in Information Security
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungmin-Hong&show_icons=true&theme=rose_pine)-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungmin-Hong)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungmin-Hong&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungmin-Hong&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
